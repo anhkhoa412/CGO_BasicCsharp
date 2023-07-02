@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\CGO_Buoi02_BMI\bin\Debug\CGO_Buoi02_BMI.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\CGO_Buoi02_BMI\bin\Debug\CGO_Buoi02_BMI.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\CGO_Buoi02_BMI\bin\Debug\CGO_Buoi02_BMI.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\CGO_Buoi02_BMI\obj\Debug\CGO_Buoi02_BMI.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\CGO_Buoi02_BMI\obj\Debug\CGO_Buoi02_BMI.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\CGO_Buoi02_BMI\obj\Debug\CGO_Buoi02_BMI.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\CGO_Buoi02_BMI\obj\Debug\CGO_Buoi02_BMI.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\CGO_Buoi02_BMI\obj\Debug\CGO_Buoi02_BMI.pdb
