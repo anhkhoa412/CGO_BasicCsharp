@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi01_XuatTimeHeThong\bin\Debug\CGO_Buoi01_XuatTimeHeThong.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi01_XuatTimeHeThong\bin\Debug\CGO_Buoi01_XuatTimeHeThong.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi01_XuatTimeHeThong\bin\Debug\CGO_Buoi01_XuatTimeHeThong.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi01_XuatTimeHeThong\obj\Debug\CGO_Buoi01_XuatTimeHeThong.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi01_XuatTimeHeThong\obj\Debug\CGO_Buoi01_XuatTimeHeThong.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi01_XuatTimeHeThong\obj\Debug\CGO_Buoi01_XuatTimeHeThong.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi01_XuatTimeHeThong\obj\Debug\CGO_Buoi01_XuatTimeHeThong.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi01_XuatTimeHeThong\obj\Debug\CGO_Buoi01_XuatTimeHeThong.pdb
