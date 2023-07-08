@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi03_PrimeNUmber\obj\Debug\CGO_Buoi03_PrimeNUmber.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi03_PrimeNUmber\obj\Debug\CGO_Buoi03_PrimeNUmber.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi03_PrimeNUmber\obj\Debug\CGO_Buoi03_PrimeNUmber.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi03_PrimeNUmber\bin\Debug\CGO_Buoi03_PrimeNUmber.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi03_PrimeNUmber\bin\Debug\CGO_Buoi03_PrimeNUmber.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi03_PrimeNUmber\bin\Debug\CGO_Buoi03_PrimeNUmber.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi03_PrimeNUmber\obj\Debug\CGO_Buoi03_PrimeNUmber.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi03_PrimeNUmber\obj\Debug\CGO_Buoi03_PrimeNUmber.pdb
