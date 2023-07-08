@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\VGO_Buoi03_Figure\bin\Debug\VGO_Buoi03_Figure.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\VGO_Buoi03_Figure\bin\Debug\VGO_Buoi03_Figure.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\VGO_Buoi03_Figure\bin\Debug\VGO_Buoi03_Figure.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\VGO_Buoi03_Figure\obj\Debug\VGO_Buoi03_Figure.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\VGO_Buoi03_Figure\obj\Debug\VGO_Buoi03_Figure.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\VGO_Buoi03_Figure\obj\Debug\VGO_Buoi03_Figure.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\VGO_Buoi03_Figure\obj\Debug\VGO_Buoi03_Figure.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi03\VGO_Buoi03_Figure\obj\Debug\VGO_Buoi03_Figure.pdb

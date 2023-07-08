@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi03", "CGO_Buoi03\CG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi03_PrimeNUmber", "CGO_Buoi03_PrimeNUmber\CGO_Buoi03_PrimeNUmber.csproj", "{38547C29-FAFD-464B-A6DE-9143AE0E8612}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VGO_Buoi03_Figure", "VGO_Buoi03_Figure\VGO_Buoi03_Figure.csproj", "{4EF9641C-93C7-492C-89D4-E97F83FE1A31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{38547C29-FAFD-464B-A6DE-9143AE0E8612}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38547C29-FAFD-464B-A6DE-9143AE0E8612}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38547C29-FAFD-464B-A6DE-9143AE0E8612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF9641C-93C7-492C-89D4-E97F83FE1A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF9641C-93C7-492C-89D4-E97F83FE1A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF9641C-93C7-492C-89D4-E97F83FE1A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF9641C-93C7-492C-89D4-E97F83FE1A31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
