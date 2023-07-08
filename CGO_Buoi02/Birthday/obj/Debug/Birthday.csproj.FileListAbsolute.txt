@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\Birthday\bin\Debug\Birthday.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\Birthday\bin\Debug\Birthday.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\Birthday\bin\Debug\Birthday.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\Birthday\obj\Debug\Birthday.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\Birthday\obj\Debug\Birthday.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\Birthday\obj\Debug\Birthday.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\Birthday\obj\Debug\Birthday.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi02\Birthday\obj\Debug\Birthday.pdb
