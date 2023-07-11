@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimGiatri\bin\Debug\CGO_Buoi04_TimGiatri.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimGiatri\bin\Debug\CGO_Buoi04_TimGiatri.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimGiatri\bin\Debug\CGO_Buoi04_TimGiatri.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimGiatri\obj\Debug\CGO_Buoi04_TimGiatri.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimGiatri\obj\Debug\CGO_Buoi04_TimGiatri.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimGiatri\obj\Debug\CGO_Buoi04_TimGiatri.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimGiatri\obj\Debug\CGO_Buoi04_TimGiatri.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimGiatri\obj\Debug\CGO_Buoi04_TimGiatri.pdb

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi4_Array2D", "CGO_Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04_Sum", "CGO_Buoi04_Sum\CGO_Buoi04_Sum.csproj", "{24BF2998-CBA6-45D3-95D0-3A7771D48933}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04_TimGiatri", "CGO_Buoi04_TimGiatri\CGO_Buoi04_TimGiatri.csproj", "{D1399D08-DCC4-48E9-8E61-43A1A365C932}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{24BF2998-CBA6-45D3-95D0-3A7771D48933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24BF2998-CBA6-45D3-95D0-3A7771D48933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24BF2998-CBA6-45D3-95D0-3A7771D48933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1399D08-DCC4-48E9-8E61-43A1A365C932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1399D08-DCC4-48E9-8E61-43A1A365C932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1399D08-DCC4-48E9-8E61-43A1A365C932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1399D08-DCC4-48E9-8E61-43A1A365C932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
