@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimMax\bin\Debug\CGO_Buoi04_TimMax.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimMax\bin\Debug\CGO_Buoi04_TimMax.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimMax\bin\Debug\CGO_Buoi04_TimMax.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimMax\obj\Debug\CGO_Buoi04_TimMax.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimMax\obj\Debug\CGO_Buoi04_TimMax.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimMax\obj\Debug\CGO_Buoi04_TimMax.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimMax\obj\Debug\CGO_Buoi04_TimMax.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_TimMax\obj\Debug\CGO_Buoi04_TimMax.pdb
