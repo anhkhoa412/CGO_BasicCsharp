@@ -1,0 +1,8 @@
+D:\Workspace\CGO_Buoi4\CGO_Buoi4\bin\Debug\CGO_Buoi4.exe.config
+D:\Workspace\CGO_Buoi4\CGO_Buoi4\bin\Debug\CGO_Buoi4.exe
+D:\Workspace\CGO_Buoi4\CGO_Buoi4\bin\Debug\CGO_Buoi4.pdb
+D:\Workspace\CGO_Buoi4\CGO_Buoi4\obj\Debug\CGO_Buoi4.csproj.AssemblyReference.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi4\obj\Debug\CGO_Buoi4.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi4\obj\Debug\CGO_Buoi4.csproj.CoreCompileInputs.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi4\obj\Debug\CGO_Buoi4.exe
+D:\Workspace\CGO_Buoi4\CGO_Buoi4\obj\Debug\CGO_Buoi4.pdb

@@ -1,0 +1,8 @@
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_Sum\bin\Debug\CGO_Buoi04_Sum.exe.config
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_Sum\bin\Debug\CGO_Buoi04_Sum.exe
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_Sum\bin\Debug\CGO_Buoi04_Sum.pdb
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_Sum\obj\Debug\CGO_Buoi04_Sum.csproj.AssemblyReference.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_Sum\obj\Debug\CGO_Buoi04_Sum.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_Sum\obj\Debug\CGO_Buoi04_Sum.csproj.CoreCompileInputs.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_Sum\obj\Debug\CGO_Buoi04_Sum.exe
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_Sum\obj\Debug\CGO_Buoi04_Sum.pdb

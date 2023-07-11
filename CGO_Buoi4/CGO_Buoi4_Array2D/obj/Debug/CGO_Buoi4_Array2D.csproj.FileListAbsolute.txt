@@ -1,0 +1,8 @@
+D:\Workspace\CGO_Buoi4\CGO_Buoi4_Array2D\bin\Debug\CGO_Buoi4_Array2D.exe.config
+D:\Workspace\CGO_Buoi4\CGO_Buoi4_Array2D\bin\Debug\CGO_Buoi4_Array2D.exe
+D:\Workspace\CGO_Buoi4\CGO_Buoi4_Array2D\bin\Debug\CGO_Buoi4_Array2D.pdb
+D:\Workspace\CGO_Buoi4\CGO_Buoi4_Array2D\obj\Debug\CGO_Buoi4_Array2D.csproj.AssemblyReference.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi4_Array2D\obj\Debug\CGO_Buoi4_Array2D.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi4_Array2D\obj\Debug\CGO_Buoi4_Array2D.csproj.CoreCompileInputs.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi4_Array2D\obj\Debug\CGO_Buoi4_Array2D.exe
+D:\Workspace\CGO_Buoi4\CGO_Buoi4_Array2D\obj\Debug\CGO_Buoi4_Array2D.pdb

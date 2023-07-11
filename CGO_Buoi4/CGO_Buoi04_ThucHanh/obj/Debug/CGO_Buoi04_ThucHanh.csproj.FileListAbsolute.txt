@@ -1,0 +1,8 @@
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_ThucHanh\bin\Debug\CGO_Buoi04_ThucHanh.exe.config
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_ThucHanh\bin\Debug\CGO_Buoi04_ThucHanh.exe
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_ThucHanh\bin\Debug\CGO_Buoi04_ThucHanh.pdb
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_ThucHanh\obj\Debug\CGO_Buoi04_ThucHanh.csproj.AssemblyReference.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_ThucHanh\obj\Debug\CGO_Buoi04_ThucHanh.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_ThucHanh\obj\Debug\CGO_Buoi04_ThucHanh.csproj.CoreCompileInputs.cache
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_ThucHanh\obj\Debug\CGO_Buoi04_ThucHanh.exe
+D:\Workspace\CGO_Buoi4\CGO_Buoi04_ThucHanh\obj\Debug\CGO_Buoi04_ThucHanh.pdb
