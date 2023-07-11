@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_InsertElement\bin\Debug\CGO_Buoi04_InsertElement.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_InsertElement\bin\Debug\CGO_Buoi04_InsertElement.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_InsertElement\bin\Debug\CGO_Buoi04_InsertElement.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_InsertElement\obj\Debug\CGO_Buoi04_InsertElement.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_InsertElement\obj\Debug\CGO_Buoi04_InsertElement.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_InsertElement\obj\Debug\CGO_Buoi04_InsertElement.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_InsertElement\obj\Debug\CGO_Buoi04_InsertElement.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_InsertElement\obj\Debug\CGO_Buoi04_InsertElement.pdb
