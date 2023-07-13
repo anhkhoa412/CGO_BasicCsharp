@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_MaxMang2Chieu\bin\Debug\CGO_Buoi04_MaxMang2Chieu.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_MaxMang2Chieu\bin\Debug\CGO_Buoi04_MaxMang2Chieu.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_MaxMang2Chieu\bin\Debug\CGO_Buoi04_MaxMang2Chieu.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_MaxMang2Chieu\obj\Debug\CGO_Buoi04_MaxMang2Chieu.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_MaxMang2Chieu\obj\Debug\CGO_Buoi04_MaxMang2Chieu.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_MaxMang2Chieu\obj\Debug\CGO_Buoi04_MaxMang2Chieu.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_MaxMang2Chieu\obj\Debug\CGO_Buoi04_MaxMang2Chieu.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_MaxMang2Chieu\obj\Debug\CGO_Buoi04_MaxMang2Chieu.pdb
