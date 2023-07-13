@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi4_chengiatri", "CGO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04_MaxMang2Chieu", "CGO_Buoi04_MaxMang2Chieu\CGO_Buoi04_MaxMang2Chieu.csproj", "{F32FE091-11E0-4D0D-A6B4-03F69190EFFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04_SumDia", "CGO_Buoi04_SumDia\CGO_Buoi04_SumDia.csproj", "{ED1EE31A-45BB-4956-97E2-30651B413478}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F32FE091-11E0-4D0D-A6B4-03F69190EFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F32FE091-11E0-4D0D-A6B4-03F69190EFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F32FE091-11E0-4D0D-A6B4-03F69190EFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1EE31A-45BB-4956-97E2-30651B413478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1EE31A-45BB-4956-97E2-30651B413478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1EE31A-45BB-4956-97E2-30651B413478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1EE31A-45BB-4956-97E2-30651B413478}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

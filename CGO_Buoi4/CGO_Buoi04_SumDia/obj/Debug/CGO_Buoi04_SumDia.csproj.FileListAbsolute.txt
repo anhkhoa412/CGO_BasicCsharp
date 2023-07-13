@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_SumDia\bin\Debug\CGO_Buoi04_SumDia.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_SumDia\bin\Debug\CGO_Buoi04_SumDia.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_SumDia\bin\Debug\CGO_Buoi04_SumDia.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_SumDia\obj\Debug\CGO_Buoi04_SumDia.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_SumDia\obj\Debug\CGO_Buoi04_SumDia.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_SumDia\obj\Debug\CGO_Buoi04_SumDia.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_SumDia\obj\Debug\CGO_Buoi04_SumDia.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi4\CGO_Buoi04_SumDia\obj\Debug\CGO_Buoi04_SumDia.pdb
