@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_FanClass\bin\Debug\CGO_Buoi07_FanClass.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_FanClass\bin\Debug\CGO_Buoi07_FanClass.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_FanClass\bin\Debug\CGO_Buoi07_FanClass.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_FanClass\obj\Debug\CGO_Buoi07_FanClass.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_FanClass\obj\Debug\CGO_Buoi07_FanClass.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_FanClass\obj\Debug\CGO_Buoi07_FanClass.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_FanClass\obj\Debug\CGO_Buoi07_FanClass.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_FanClass\obj\Debug\CGO_Buoi07_FanClass.pdb
