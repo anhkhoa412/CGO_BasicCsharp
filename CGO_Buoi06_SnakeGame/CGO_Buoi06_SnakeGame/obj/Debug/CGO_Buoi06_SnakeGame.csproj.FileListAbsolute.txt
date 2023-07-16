@@ -1,0 +1,8 @@
+D:\Workspace\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\bin\Debug\CGO_Buoi06_SnakeGame.exe.config
+D:\Workspace\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\bin\Debug\CGO_Buoi06_SnakeGame.exe
+D:\Workspace\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\bin\Debug\CGO_Buoi06_SnakeGame.pdb
+D:\Workspace\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.csproj.AssemblyReference.cache
+D:\Workspace\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.csproj.CoreCompileInputs.cache
+D:\Workspace\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.exe
+D:\Workspace\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.pdb

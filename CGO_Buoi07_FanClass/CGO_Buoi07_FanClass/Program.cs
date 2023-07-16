@@ -61,9 +61,6 @@ namespace CGO_Buoi07_FanClass
             }
         }
 
-
-
-
         static void Main(string[] args)
         {
             Fan fan1 = new Fan();
