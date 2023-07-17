@@ -1,0 +1,8 @@
+D:\Workspace\CGO_Buoi05\CGO_Buoi05_ChinhNhietDo\bin\Debug\CGO_Buoi05_ChinhNhietDo.exe.config
+D:\Workspace\CGO_Buoi05\CGO_Buoi05_ChinhNhietDo\bin\Debug\CGO_Buoi05_ChinhNhietDo.exe
+D:\Workspace\CGO_Buoi05\CGO_Buoi05_ChinhNhietDo\bin\Debug\CGO_Buoi05_ChinhNhietDo.pdb
+D:\Workspace\CGO_Buoi05\CGO_Buoi05_ChinhNhietDo\obj\Debug\CGO_Buoi05_ChinhNhietDo.csproj.AssemblyReference.cache
+D:\Workspace\CGO_Buoi05\CGO_Buoi05_ChinhNhietDo\obj\Debug\CGO_Buoi05_ChinhNhietDo.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CGO_Buoi05\CGO_Buoi05_ChinhNhietDo\obj\Debug\CGO_Buoi05_ChinhNhietDo.csproj.CoreCompileInputs.cache
+D:\Workspace\CGO_Buoi05\CGO_Buoi05_ChinhNhietDo\obj\Debug\CGO_Buoi05_ChinhNhietDo.exe
+D:\Workspace\CGO_Buoi05\CGO_Buoi05_ChinhNhietDo\obj\Debug\CGO_Buoi05_ChinhNhietDo.pdb

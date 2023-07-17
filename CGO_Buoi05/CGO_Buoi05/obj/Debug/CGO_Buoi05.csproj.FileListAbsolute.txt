@@ -1,0 +1,16 @@
+D:\Workspace\CGO_Buoi05\CGO_Buoi05\bin\Debug\CGO_Buoi05.exe.config
+D:\Workspace\CGO_Buoi05\CGO_Buoi05\bin\Debug\CGO_Buoi05.exe
+D:\Workspace\CGO_Buoi05\CGO_Buoi05\bin\Debug\CGO_Buoi05.pdb
+D:\Workspace\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.csproj.AssemblyReference.cache
+D:\Workspace\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.csproj.CoreCompileInputs.cache
+D:\Workspace\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.exe
+D:\Workspace\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05\obj\Debug\CGO_Buoi05.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05\bin\Debug\CGO_Buoi05.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05\bin\Debug\CGO_Buoi05.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05\bin\Debug\CGO_Buoi05.pdb

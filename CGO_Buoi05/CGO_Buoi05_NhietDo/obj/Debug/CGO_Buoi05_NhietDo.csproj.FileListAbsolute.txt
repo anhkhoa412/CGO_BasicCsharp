@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_NhietDo\obj\Debug\CGO_Buoi05_NhietDo.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_NhietDo\obj\Debug\CGO_Buoi05_NhietDo.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_NhietDo\obj\Debug\CGO_Buoi05_NhietDo.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_NhietDo\bin\Debug\CGO_Buoi05_NhietDo.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_NhietDo\bin\Debug\CGO_Buoi05_NhietDo.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_NhietDo\bin\Debug\CGO_Buoi05_NhietDo.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_NhietDo\obj\Debug\CGO_Buoi05_NhietDo.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_NhietDo\obj\Debug\CGO_Buoi05_NhietDo.pdb
