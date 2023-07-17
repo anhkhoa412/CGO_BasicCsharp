@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DelElement\obj\Debug\CGO_Buoi05_DelElement.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DelElement\obj\Debug\CGO_Buoi05_DelElement.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DelElement\obj\Debug\CGO_Buoi05_DelElement.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DelElement\bin\Debug\CGO_Buoi05_DelElement.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DelElement\bin\Debug\CGO_Buoi05_DelElement.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DelElement\bin\Debug\CGO_Buoi05_DelElement.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DelElement\obj\Debug\CGO_Buoi05_DelElement.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DelElement\obj\Debug\CGO_Buoi05_DelElement.pdb
