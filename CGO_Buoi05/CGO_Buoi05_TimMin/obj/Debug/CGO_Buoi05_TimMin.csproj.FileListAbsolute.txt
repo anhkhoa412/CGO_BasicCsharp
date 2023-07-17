@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMin\bin\Debug\CGO_Buoi05_TimMin.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMin\bin\Debug\CGO_Buoi05_TimMin.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMin\bin\Debug\CGO_Buoi05_TimMin.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMin\obj\Debug\CGO_Buoi05_TimMin.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMin\obj\Debug\CGO_Buoi05_TimMin.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMin\obj\Debug\CGO_Buoi05_TimMin.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMin\obj\Debug\CGO_Buoi05_TimMin.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMin\obj\Debug\CGO_Buoi05_TimMin.pdb
