@@ -1,0 +1,8 @@
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_Animal\bin\Debug\CGO_Buoi07_Animal.exe.config
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_Animal\bin\Debug\CGO_Buoi07_Animal.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_Animal\bin\Debug\CGO_Buoi07_Animal.pdb
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_Animal\obj\Debug\CGO_Buoi07_Animal.csproj.AssemblyReference.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_Animal\obj\Debug\CGO_Buoi07_Animal.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_Animal\obj\Debug\CGO_Buoi07_Animal.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_Animal\obj\Debug\CGO_Buoi07_Animal.exe
+D:\Workspace\Github\CGO_BasicCsharp\CGO_Buoi07_FanClass\CGO_Buoi07_Animal\obj\Debug\CGO_Buoi07_Animal.pdb
