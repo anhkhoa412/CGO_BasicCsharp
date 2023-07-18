@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi07_FanClass", "CGO_Buoi07_FanClass\CGO_Buoi07_FanClass.csproj", "{FB7E16D8-E402-4A44-A0B4-B2F0467C6091}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi07_HCN", "CGO_Buoi07_HCN\CGO_Buoi07_HCN.csproj", "{5299D1F9-0F75-48FF-8931-86C1B0441BD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FB7E16D8-E402-4A44-A0B4-B2F0467C6091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB7E16D8-E402-4A44-A0B4-B2F0467C6091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB7E16D8-E402-4A44-A0B4-B2F0467C6091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5299D1F9-0F75-48FF-8931-86C1B0441BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5299D1F9-0F75-48FF-8931-86C1B0441BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5299D1F9-0F75-48FF-8931-86C1B0441BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5299D1F9-0F75-48FF-8931-86C1B0441BD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
